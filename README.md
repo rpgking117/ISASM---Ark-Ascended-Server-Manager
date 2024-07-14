@@ -3,6 +3,9 @@ Before Installation Guide
 
 Thank you for choosing the ARK: Survival Ascended Server Manager. Please read this document carefully before proceeding with the installation.
 
+Before using make sure to run the ISASM.exe in the same directory as the extracted _interal folder for the program to work correctly. 
+
+
 1. System Requirements:
    - Operating System: Windows Server 2016 or later, Windows 10 or later
    - Processor: 16 Core CPU Recommended
